@@ -15,6 +15,14 @@
             "category": "Venda",
             "price": 200,
             "createdAt": "2022-08-31T23:11:40.964Z"
+        },
+        {
+            "id": 1,
+            "description": "Doce",
+            "type": "outcome",
+            "category": "Venda",
+            "price": 400,
+            "createdAt": "2022-08-31T23:11:40.964Z"
         }
     ]
 }
